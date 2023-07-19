@@ -1,4 +1,4 @@
-### Oi, meu nome é Thiago
+### Hi there! I'm Thiago Luiz
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 👨‍💻 Python Developer
